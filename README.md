@@ -1,5 +1,5 @@
 ## Hi I'm Breenice Lee ⋆｡°✩
-I'm a 4th year computer science student at the University of Virginia working to become a software engineer
+I'm a software engineer working to make reliable systems to help make lives easier and more enjoyable
 
 - 🔭 I’m currently developing HRI systems
 - 💬 Ask me about Unity game development!
